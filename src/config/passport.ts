@@ -1,6 +1,6 @@
 import passport from "passport";
 
-passport.use();
+//aqui configura a sua Strategy
 
 
 export default passport
